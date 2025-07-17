@@ -87,8 +87,8 @@ Registers a new user.
 
 ```json
 {
-  "name": "Tarun Adithya",
-  "email": "tarun@example.com",
+  "name": "Poojitha",
+  "email": "poojitha@gmail.com",
   "password": "securepass123"
 }
 ```
