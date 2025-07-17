@@ -1,7 +1,5 @@
 # 📘 Module 3 Assignment – LMS Backend with MongoDB Integration
 
-This project is part of the Module 3 assignment to build a backend system for a Learning Management System (LMS) using **Node.js**, **Express.js**, **TypeScript**, and **MongoDB**.
-
 ---
 
 ##  Objective
@@ -25,7 +23,7 @@ Module3_Assignment/
 ├── tsconfig.json
 └── README.md
 ```
-
+```
 ##  Tech Stack
 
 - Node.js
